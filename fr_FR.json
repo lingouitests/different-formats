@@ -1,0 +1,25 @@
+{
+  "product": {
+    "name": "Premium Smartwatch X5",
+    "description": {
+      "short": "Revolutionary wearable technology combining style and functionality",
+      "long": "Experience the future of smartwatches with advanced health monitoring, seamless connectivity, and elegant design. Features include heart rate tracking, GPS navigation, and water resistance up to 50 meters."
+    },
+    "features": {
+      "technical": {
+        "processor": "1.2GHz",
+        "memory": "512MB RAM, 4GB storage",
+        "battery": "Up to 7 days on single charge"
+      },
+      "design": {
+        "material": "Stainless steel frame",
+        "display": "AMOLED touchscreen"
+      }
+    },
+    "pricing": {
+      "base": "$299.99",
+      "premium": "$349.99",
+      "bundle": "$399.99"
+    }
+  }
+}
